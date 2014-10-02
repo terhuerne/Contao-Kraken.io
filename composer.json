@@ -1,0 +1,34 @@
+{
+	"name":"terhuerne/contao-kraken.io",
+	"description":"With this extension, you can use the advanced image compression technologies of kraken.io at your Contao based Homepage",
+	"keywords":["contao","kraken.io","image","compression"],
+	"type":"contao-module",
+	"homepage":"http://www.terhuerne.org",
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"Johannes Terhürne",
+			"homepage":"http://www.terhuerne.org",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"issues":"https://github.com/terhuerne/Contao-Kraken.io/issues",
+		"source":"https://github.com/terhuerne/Contao-Kraken.io/"
+	},
+	"require":{
+		"php":">=5.3",
+		"contao/core":">=3.3",
+		"contao-community-alliance/composer-installer":"*"
+	},
+	"autoload":{
+		"classmap":[""]
+	},
+	"extra":{
+		"contao":{
+			"sources":{
+				"":"system/modules/krakenio"
+			}
+		}
+	}
+}
