@@ -2,7 +2,7 @@ Contao-Kraken.io
 ================
 With this Contao-Extension, you can add the power of the image compression technologies of kraken.io to your favorite Content Management System.
 
-If you want to use this extension, you need to subscribe to a plan at [kraken.io/plans](https://kraken.io/plans "Opens kraken.io/plans in a new window"). Plans start at 5$/month which is absolutly worth the cost.
+If you want to use this extension, you need to subscribe to a plan at [kraken.io](https://kraken.io/?ref=3477595af867 "Opens kraken.io in a new window"). Plans start at 5$/month which is absolutly worth the cost.
 
 After that, login to the service and go to [kraken.io/account/api-credentials](https://kraken.io/account/api-credentials "Opens kraken.io/account/api-credentials in a new window") and copy the API-Key and the API-Secret.
 
