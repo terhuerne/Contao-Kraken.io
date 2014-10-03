@@ -14,3 +14,5 @@
 
 $GLOBALS['TL_HOOKS']['getImage'][] = array('krakenIoInterface', 'compressThumbnail');
 $GLOBALS['TL_HOOKS']['postUpload'][] = array('krakenIoInterface', 'checkForImages');
+
+$GLOBALS['BE_MOD']['system']['files']['compress'] = array('krakenIoInterface', 'compressSingleImage');
